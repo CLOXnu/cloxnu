@@ -3,11 +3,11 @@
 ---
 
 <a href="https://an.dog">
-  <img src="res/an.dog.svg" width="160px" margin="40px"/>
+  <img src="res/an.dog.svg" width="120px"/>
 </a>
 
 <a href="https://note.an.dog">
-  <img src="res/note.an.dog.svg" width="160px" margin="40px"/>
+  <img src="res/note.an.dog.svg" width="120px"/>
 </a>
 
 <!--
