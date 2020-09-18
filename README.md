@@ -1,6 +1,14 @@
 ### ε٩(๑> ₃ <)۶з ---- Glad to see you.
 
+---
 
+<a href="https://an.dog">
+  <img src="res/an.dog.svg" width="160px" margin="40px"/>
+</a>
+
+<a href="https://note.an.dog">
+  <img src="res/note.an.dog.svg" width="160px" margin="40px"/>
+</a>
 
 <!--
 **CLOXnu/cloxnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
