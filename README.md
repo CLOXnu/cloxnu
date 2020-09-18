@@ -1,7 +1,5 @@
 ### ε٩(๑> ₃ <)۶з ---- Glad to see you.
 
----
-
 <a href="https://an.dog">
   <img src="res/an.dog.svg" width="120px"/>
 </a>
