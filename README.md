@@ -8,6 +8,10 @@
   <img src="res/note.an.dog.svg" width="120px"/>
 </a>
 
+<a href="https://lab.an.dog">
+  <img src="res/lab.an.dog.svg" width="120px"/>
+</a>
+
 <!--
 **CLOXnu/cloxnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
