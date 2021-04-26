@@ -22,7 +22,7 @@
 
 ### My Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloxnu&langs_count=10)](https://github.com/cloxnu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloxnu&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=Unit-4)](https://github.com/cloxnu)
 
 <!--
 **CLOXnu/cloxnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
