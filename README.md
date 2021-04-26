@@ -18,6 +18,12 @@
   <img src="res/note/ds.an.dog.svg" width="120px"/>
 </a>
 
+<br>
+
+### My Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloxnu&langs_count=10)](https://github.com/cloxnu)
+
 <!--
 **CLOXnu/cloxnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
