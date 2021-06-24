@@ -20,6 +20,11 @@
 
 <br>
 
+### Contacts
+
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/cloxnu)
+[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/cloxnu/)
+
 ### My Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloxnu&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=Unit-4)](https://github.com/cloxnu)
